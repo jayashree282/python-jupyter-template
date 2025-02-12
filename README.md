@@ -60,6 +60,17 @@ The src folder contains a set of exercises related to Matplotlib. These exercise
 1. Save your completed exercise files with  solution in the `src` folder. 
 2. Ensure all cells are executed, and outputs are visible in the notebook.
 3. Push your updated exercise files to the repository.
+# Navigate to your project directory (if not already there)
+cd /path/to/your/repository
+
+# Stage all modified and new files
+git add .
+
+# Commit changes with a meaningful message
+git commit -m "Updated exercise files"
+
+# Push to the remote repository (main branch)
+git push origin main
 
 
 ### Goal
